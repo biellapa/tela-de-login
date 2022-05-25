@@ -1,8 +1,15 @@
 div{
     color: rgb(83, 81, 80);
     text-align: center;
+    margin: 250px;
+     border: 15px solid rgb(0, 0, 0);
+     width: 20%;
+    }
     
-}
 body{
+
+    display: grid;
+    place-items: center;
     background-color:rgb(255, 89, 0)
+
 }
